@@ -1,0 +1,5 @@
+/Volumes/MAC/Jarmo/Projects/Eksam/Eksam/bin/Debug/Eksam.exe
+/Volumes/MAC/Jarmo/Projects/Eksam/Eksam/bin/Debug/Eksam.pdb
+/Volumes/MAC/Jarmo/Projects/Eksam/Eksam/obj/x86/Debug/Ylesanne_1.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Jarmo/Projects/Eksam/Eksam/obj/x86/Debug/Eksam.exe
+/Volumes/MAC/Jarmo/Projects/Eksam/Eksam/obj/x86/Debug/Eksam.pdb

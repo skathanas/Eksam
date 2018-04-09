@@ -1,0 +1,5 @@
+/Volumes/MAC/Jarmo/Projects/Eksam/Ylesanne_2/obj/x86/Debug/Ylesanne_2.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Jarmo/Projects/Eksam/Ylesanne_2/bin/Debug/Ylesanne_2.exe
+/Volumes/MAC/Jarmo/Projects/Eksam/Ylesanne_2/bin/Debug/Ylesanne_2.pdb
+/Volumes/MAC/Jarmo/Projects/Eksam/Ylesanne_2/obj/x86/Debug/Ylesanne_2.exe
+/Volumes/MAC/Jarmo/Projects/Eksam/Ylesanne_2/obj/x86/Debug/Ylesanne_2.pdb
